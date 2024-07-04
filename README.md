@@ -65,7 +65,7 @@ Each coding practice is documented in its respective folder with a `README.md` f
 
 Here are some resources that have been helpful in my learning journey:
 
-* [Code Academy Machine Learning Course](https://www.codecademy.com/learn/paths/data-science){:target="_blank"}
+* [Code Academy Machine Learning Course](https://www.codecademy.com/learn/paths/data-science)
 
 
 ## Contributing
