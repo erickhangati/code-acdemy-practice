@@ -45,8 +45,8 @@ The repository is organized as follows:
 
 ```
 machine-learning-coding-practices/
-├── pandas/
-│   ├── linear_regression.py
+├── basics/
+│   ├── lambda_functions.py
 │   └── README.md
 └── README.md
 ```
