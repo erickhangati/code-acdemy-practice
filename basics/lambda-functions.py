@@ -1,8 +1,7 @@
 """
 In Python, a lambda function is a one-line shorthand for a function.
 
-Example:
-    add_two = lambda my_input: my_input + 2
+Example: add_two = lambda my_input: my_input + 2
 """
 
 # Define a lambda function named 'is_substring'
