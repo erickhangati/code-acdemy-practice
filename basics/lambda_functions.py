@@ -8,14 +8,16 @@ Example: add_two = lambda my_input: my_input + 2
 is_substring = lambda my_string: my_string in "This is the master string"
 
 # Description:
-# The 'is_substring' function checks if the given string 'my_string' is a substring of the fixed string
+# The 'is_substring' function checks if the given string 'my_string' is a
+# substring of the fixed string
 # "This is the master string".
 
 # Parameters:
 # my_string (str): The string to check for being a substring.
 
 # Returns:
-# bool: Returns True if 'my_string' is found within "This is the master string", otherwise returns False.
+# bool: Returns True if 'my_string' is found within "This is the master string",
+# otherwise returns False.
 
 
 # Define a lambda function named 'check_adult'
