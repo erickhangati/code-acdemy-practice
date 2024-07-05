@@ -46,7 +46,7 @@ The repository is organized as follows:
 ```
 machine-learning-coding-practices/
 ├── basics/
-│   ├── lambda_functions.py
+│   ├── lambda_functions.ipynb
 │   └── README.md
 ├── pandas/
 │   ├── view_data.ipynb
