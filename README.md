@@ -48,16 +48,15 @@ machine-learning-coding-practices/
 ├── basics/
 │   ├── lambda_functions.py
 │   └── README.md
+├── pandas/
+│   ├── view_data.ipynb
+│   ├── object_creation.ipynb
+│   └── README.md
 └── README.md
 ```
 ## Coding Practices
 
-Each coding practice is documented in its respective folder with a `README.md` file explaining the problem, approach, and solution. Below is a list of the practices included:
-
-### Pandas
-
-* **Linear Regression**: Implementation of linear regression from scratch.
-* **Logistic Regression**: Implementation of logistic regression from scratch.
+Each coding practice is documented in its respective folder with a `README.md` file explaining the problem, approach, and solution.
 
 
 
