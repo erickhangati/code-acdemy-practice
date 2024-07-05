@@ -16,11 +16,12 @@ The files in this directory demonstrate various operations and functionalities p
 
 ## Files
 
-- `object_creation.py`: Contains examples of creating Series and DataFrame objects using Pandas.
+- `object_creation.ipynb`: Contains examples of creating Series and DataFrame objects using Pandas.
+- `view_data.ipynb`: Contains examples of viewing data from DataFrames
 
 ## Instructions
 
-1. Open any of the `.py` files to see the examples and exercises.
+1. Open any of the `.ipynb` files to see the examples and exercises.
 2. Follow the comments and instructions in the code to understand the concepts and try running the examples.
 3. Modify the examples or create new ones to practice and enhance your understanding of Pandas.
 
@@ -29,4 +30,9 @@ The files in this directory demonstrate various operations and functionalities p
 To run any of the scripts in this directory, ensure you have Python 3.x and Pandas installed on your machine. You can run the scripts from the command line as follows:
 
 ```bash
-python3 object_creation.py
+python3 object_creation.ipynb
+```
+
+```bash
+python3 view_data.ipynb
+```
