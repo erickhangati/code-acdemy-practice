@@ -50,6 +50,7 @@ machine-learning-coding-practices/
 │   └── README.md
 ├── pandas/
 │   ├── view_data.ipynb
+│   ├── missing_data.ipynb
 │   ├── object_creation.ipynb
 │   ├── selection.ipynb
 │   ├── setting.ipynb
