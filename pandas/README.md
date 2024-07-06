@@ -20,7 +20,7 @@ The files in this directory demonstrate various operations and functionalities p
 - `view_data.ipynb`: Contains examples of viewing data from DataFrames
 - `selection.ipynb`: Contains examples of selecting data from DataFrames
 - `setting.ipynb`: Contains examples of setting data on DataFrames
-
+- `missing_data.ipynb`: Contains examples of working with missing data on DataFrames
 ## Instructions
 
 1. Open any of the `.ipynb` files to see the examples and exercises.
