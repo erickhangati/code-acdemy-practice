@@ -18,6 +18,7 @@ The files in this directory demonstrate various operations and functionalities p
 
 - `object_creation.ipynb`: Contains examples of creating Series and DataFrame objects using Pandas.
 - `view_data.ipynb`: Contains examples of viewing data from DataFrames
+- `selection.ipynb`: Contains examples of selecting data from DataFrames
 
 ## Instructions
 
