@@ -51,6 +51,8 @@ machine-learning-coding-practices/
 ├── pandas/
 │   ├── view_data.ipynb
 │   ├── object_creation.ipynb
+│   ├── selection.ipynb
+│   ├── setting.ipynb
 │   └── README.md
 └── README.md
 ```
