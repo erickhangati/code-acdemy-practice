@@ -16,11 +16,13 @@ The files in this directory demonstrate various operations and functionalities p
 
 ## Files
 
-- `object_creation.ipynb`: Contains examples of creating Series and DataFrame objects using Pandas.
-- `view_data.ipynb`: Contains examples of viewing data from DataFrames
-- `selection.ipynb`: Contains examples of selecting data from DataFrames
-- `setting.ipynb`: Contains examples of setting data on DataFrames
-- `missing_data.ipynb`: Contains examples of working with missing data on DataFrames
+- `object_creation.ipynb`: Creating Series and DataFrame objects using Pandas.
+- `view_data.ipynb`: Viewing data from DataFrames
+- `selection.ipynb`: Selecting data from DataFrames
+- `setting.ipynb`: Setting data on DataFrames
+- `missing_data.ipynb`: Working with missing data on DataFrames
+- `merge.ipynb`: Merging DataFrames.
+
 ## Instructions
 
 1. Open any of the `.ipynb` files to see the examples and exercises.
