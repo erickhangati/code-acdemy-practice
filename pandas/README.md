@@ -23,6 +23,7 @@ The files in this directory demonstrate various operations and functionalities p
 - `missing_data.ipynb`: Working with missing data on DataFrames
 - `operations.ipynb`: Operations on DataFrames.
 - `merge.ipynb`: Merging DataFrames.
+- `groupby.ipynb`: Grouping data on DataFrames.
 
 ## Instructions
 
