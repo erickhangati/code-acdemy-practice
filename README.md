@@ -54,6 +54,8 @@ machine-learning-coding-practices/
 │   ├── object_creation.ipynb
 │   ├── selection.ipynb
 │   ├── setting.ipynb
+│   ├── operations.ipynb
+│   ├── merge.ipynb
 │   └── README.md
 └── README.md
 ```
