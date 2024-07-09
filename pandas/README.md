@@ -21,6 +21,7 @@ The files in this directory demonstrate various operations and functionalities p
 - `selection.ipynb`: Selecting data from DataFrames
 - `setting.ipynb`: Setting data on DataFrames
 - `missing_data.ipynb`: Working with missing data on DataFrames
+- `operations.ipynb`: Operations on DataFrames.
 - `merge.ipynb`: Merging DataFrames.
 
 ## Instructions
