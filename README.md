@@ -58,6 +58,7 @@ machine-learning-coding-practices/
 │   ├── merge.ipynb
 │   ├── groupby.ipynb
 │   ├── reshaping.ipynb
+│   ├── categorical.ipynb
 │   └── README.md
 └── README.md
 ```
