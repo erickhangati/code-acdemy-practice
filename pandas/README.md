@@ -24,7 +24,8 @@ The files in this directory demonstrate various operations and functionalities p
 - `operations.ipynb`: Operations on DataFrames.
 - `merge.ipynb`: Merging DataFrames.
 - `groupby.ipynb`: Grouping data on DataFrames.
-- `reshaoing.ipynb`: Reshaping data on DataFrames.
+- `reshaping.ipynb`: Reshaping data on DataFrames.
+- `categorical.ipynb`: Operations for handling categorical data in Pandas
 
 ## Instructions
 
