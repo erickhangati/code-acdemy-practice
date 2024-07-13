@@ -60,6 +60,11 @@ machine-learning-coding-practices/
 │   ├── reshaping.ipynb
 │   ├── categorical.ipynb
 │   └── README.md
+├── projects/
+│   ├── petal_power_inventory/
+│   │   ├── inventory.csv
+│   │   └── petal_power_inventory.ipynb
+│   └── README.md
 └── README.md
 ```
 ## Coding Practices
