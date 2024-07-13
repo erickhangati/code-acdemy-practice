@@ -52,3 +52,4 @@ venv.bak/
 # VS Code
 .vscode/
 playground.py
+playground.ipynb
