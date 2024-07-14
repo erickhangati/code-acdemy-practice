@@ -40,8 +40,8 @@ To use or run any of the projects, follow the instructions provided in each proj
 
 1. **Cloning the Repository**:
     ```bash
-    git clone https://github.com/your-repository.git
-    cd your-repository/projects
+    git clone https://github.com/erickhangati/machine-learning-coding-practices.git
+    cd machine-learning-coding-practices/projects/
     ```
 
 2. **Setting Up the Environment**:
@@ -55,7 +55,7 @@ To use or run any of the projects, follow the instructions provided in each proj
         pip install -r requirements.txt
         ```
 
-3. **Running the Project**:
+3. **Running a Project**:
     - Navigate to the project's directory:
         ```bash
         cd Project1
