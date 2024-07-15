@@ -74,7 +74,3 @@ Contributions are welcome! If you have a project that you think would be a good 
 5. Commit your changes: `git commit -am 'Add my new project'`.
 6. Push to the branch: `git push origin my-new-project`.
 7. Create a new Pull Request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](../LICENSE) file for more details.
