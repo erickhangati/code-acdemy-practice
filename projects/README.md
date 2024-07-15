@@ -27,6 +27,7 @@ Each project is contained within its own subdirectory and includes relevant code
 Below is a list of projects included in this directory:
 
 1. **Petal Power Inventory**: An inventory analysis project.
+2. **Store A/B Testing**: Online store A/B testing.
 
 
 Each project directory typically contains:
