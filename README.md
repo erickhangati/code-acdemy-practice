@@ -66,10 +66,16 @@ machine-learning-coding-practices/
 │   │   ├── checkout.csv
 │   │   ├── purchase.csv
 │   │   ├── visits.csv
-│   │   └── page_funnel_visits.ipynb
+│   │   ├── page_funnel_visits.ipynb
+│   │   └── README.md
 │   ├── petal_power_inventory/
 │   │   ├── inventory.csv
-│   │   └── petal_power_inventory.ipynb
+│   │   ├── petal_power_inventory.ipynb
+│   │   └── README.md
+│   ├── store_ab_testing/
+│   │   ├── ad_clicks.csv
+│   │   ├── store_ab_testing.ipynb
+│   │   └── README.md
 │   └── README.md
 └── README.md
 ```
