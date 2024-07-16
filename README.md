@@ -61,6 +61,12 @@ machine-learning-coding-practices/
 │   ├── categorical.ipynb
 │   └── README.md
 ├── projects/
+│   ├── page_visits_funnel/
+│   │   ├── cart.csv
+│   │   ├── checkout.csv
+│   │   ├── purchase.csv
+│   │   ├── visits.csv
+│   │   └── page_funnel_visits.ipynb
 │   ├── petal_power_inventory/
 │   │   ├── inventory.csv
 │   │   └── petal_power_inventory.ipynb
