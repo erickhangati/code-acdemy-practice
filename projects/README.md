@@ -29,6 +29,7 @@ Below is a list of projects included in this directory:
 1. **Petal Power Inventory**: An inventory analysis project.
 2. **Store A/B Testing**: Online store A/B testing.
 3. **Page Visits Funnel**: Online store page visit analysis.
+4. **US Census Data Cleaning Project**: Census data cleaning project.
 
 
 Each project directory typically contains:
