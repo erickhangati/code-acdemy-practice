@@ -61,6 +61,19 @@ machine-learning-coding-practices/
 │   ├── categorical.ipynb
 │   └── README.md
 ├── projects/
+│   ├── cleaning_us_census_data/
+│   │   ├── states0.csv
+│   │   ├── states1.csv
+│   │   ├── states2.csv
+│   │   ├── states3.csv
+│   │   ├── states4.csv
+│   │   ├── states5.csv
+│   │   ├── states6.csv
+│   │   ├── states7.csv
+│   │   ├── states8.csv
+│   │   ├── states9.csv
+│   │   ├── cleaning_us_census_data.ipynb
+│   │   └── README.md
 │   ├── page_visits_funnel/
 │   │   ├── cart.csv
 │   │   ├── checkout.csv
